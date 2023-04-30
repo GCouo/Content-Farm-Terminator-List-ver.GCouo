@@ -2,7 +2,7 @@
   # Description: Filter for general content farms, mostly in Chinese.
   # Last modified: 2023-04-30T14:11:00+08:00
   # Licence: MIT License
-  # Source: 
+  # Source: https://raw.githubusercontent.com/GCouo/Content-Farm-Terminator-List-ver.GCouo/main/ContentFarmBlocker-BlockList.txt
 *.appledaily.com
 *.lol
 *.pw
