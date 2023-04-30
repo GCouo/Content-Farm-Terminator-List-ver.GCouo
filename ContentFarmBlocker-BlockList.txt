@@ -1,8 +1,8 @@
   # Title: Content Farm Filters
   # Description: Filter for general content farms, mostly in Chinese.
-  # Last modified: 2023-04-30T00:49:00+08:00
+  # Last modified: 2023-04-30T14:11:00+08:00
   # Licence: MIT License
-  # Source: https://raw.githubusercontent.com/GCouo/Content-Farm-Terminator-List-ver.GCouo/main/ContentFarmBlocker-BlockList.txt
+  # Source: 
 *.appledaily.com
 *.lol
 *.pw
@@ -2476,6 +2476,7 @@ jeylin.com.tw
 jf68.biz
 jf-macedodecavaleiros.pt
 jfv52xale2.pixnet.net
+jh-music.uk
 jianshu.com
 jiaochengzhijia.com
 jiawei5168.pixnet.net
@@ -4601,6 +4602,7 @@ tkfwee.co
 tlcclc.com
 tlsportsevents.co.uk
 tm868.com
+tmorocc.com
 tn4marsharx.pixnet.net
 tobys.com
 tocannesstudio.pl
@@ -5209,6 +5211,7 @@ zamek-w-karlowicach.pl
 zanyouxi.com
 zaoqingshan.cn
 zapotec911.pixnet.net
+zapwarso.com
 zauberhaft-kosmetik.ch
 zax07522.pixnet.net
 zayiffits.net
