@@ -1,8 +1,3 @@
-  # Title: Content Farm Filters
-  # Description: Filter for general content farms, mostly in Chinese.
-  # Last modified: 2023-04-30T14:11:00+08:00
-  # Licence: MIT License
-  # Source: https://raw.githubusercontent.com/GCouo/Content-Farm-Terminator-List-ver.GCouo/main/ContentFarmBlocker-BlockList.txt
 *.appledaily.com
 *.lol
 *.pw
@@ -37,6 +32,7 @@
 1503202223.19deseptiembre.es
 1503202223.bse-events.fr
 1530697552s.weebly.com
+154.91.224.196
 159.148.38.104
 1603202223.19deseptiembre.es
 162.192.2.38
@@ -147,6 +143,7 @@
 555x.org
 5577.com
 58.com
+58-kn.finance
 594po.com
 5dlottery.biz
 6.loveis.4tvbox.ru
@@ -264,6 +261,7 @@ aboluowang.com
 abowss.net
 abrazivi.lv
 ac.th
+academiapioz.es
 acbitlesf.ml
 accompany.wiki
 accupass.com
@@ -707,11 +705,13 @@ beri201314.pixnet.net
 berkmpa6rx7.pixnet.net
 berlin.csie.ntnu.edu.tw
 berthako.pixnet.net
+besedilo-akordi.si
 bestketobrownie.co.uk
 bestmoney8.weebly.com
 bestonlineslotsites.org
 bet.bookslee.me
 bethaaron.org
+betibom666.com
 betibomgiris.com
 betonowe-inspiracje.pl
 betriebsrat-rzz-klr.de
@@ -870,6 +870,7 @@ brucecommodity.com
 bruzzoroberto.it
 brzozow.info.pl
 bsneny.com
+btt3658.com
 bu.yogaenqigong.nl
 buckhorninn.com
 buddhabodyoga.com
@@ -1114,6 +1115,7 @@ cl68yjc862222.pixnet.net
 clau-nr.es
 clck.ru
 cldz.info
+clearcutconversions.co.uk
 clearvista.pw
 clericimpianti.it
 cleverer-buchen.de
@@ -1312,6 +1314,7 @@ danji100.com
 dantetopjbo.pixnet.net
 dare-to-discover.co.uk
 dariazasun.pl
+darlajennings.com
 darwenrunninggroup.co.uk
 dashboard2020hd.web.app
 dashenwu.com
@@ -1417,6 +1420,7 @@ dip.go.th
 diqishu.com
 directcolors.net
 direct-drive.ru
+direksiyondersimerkezi.net
 disneypark.pixnet.net
 disnnai.com.tw
 diviync.co
@@ -1476,6 +1480,7 @@ drfalk-pensionsmanagement.de
 driftin.sk
 droidinformer.org
 droomtown.com
+drtalaeian.ir
 drxgybi.weebly.com
 dr-zonnepanelen.nl
 ds778.cn
@@ -1573,6 +1578,7 @@ electricexperience.it
 element5t.ru
 elfares.live
 elfr-blog.eu
+elgiganten.se
 elife-cloud.blogspot.com
 elijahtonew.pixnet.net
 elioesara.it
@@ -1584,6 +1590,7 @@ elmer22.pixnet.net
 elmercaditonacional.cl
 elnf1xnaeemu.pixnet.net
 elsienl5708y7.pixnet.net
+ematchventure.com
 embaixadangola.ru
 emergencymum.co.uk
 emerylyndagav.pixnet.net
@@ -1694,6 +1701,7 @@ eztravel.com.tw
 ezzymasala.co.uk
 f234567898.pixnet.net
 f23456789876.pixnet.net
+f46n.com
 fa8casino.com
 fabiodemartini.it
 facaishur.com
@@ -1736,6 +1744,7 @@ fashionsurvey.pixnet.net
 fashioy.me
 fastfood.ireviewtw.com
 fastt.uk
+fasttimecitycourier.com
 faunoaziendaagricola.it
 favarger.com
 faxquf.com
@@ -2307,6 +2316,7 @@ idealnoepp.ru
 ideasrobot.com
 idejosgrupe.lt
 idiot.cfd
+idkuljetus.fi
 idnes.cz
 idongdong.com
 i-dont-care-about-cookies.eu
@@ -2737,6 +2747,7 @@ kuno.ee
 kuosmasenpojat.fi
 kursafish.lv
 kurzypidilidi.cz
+kushibar.com.tw
 kvn.org.uk
 kwadranspabianice.pl
 kwongwah.com.my
@@ -2754,6 +2765,7 @@ l24.im
 l2sanctum.ru
 l4valdemsns.pixnet.net
 l4yg08.net
+l5btita.com
 laarzicht.eu
 labaldana.it
 labenski-wohnen.de
@@ -2782,6 +2794,7 @@ lalafarma.ru
 lalepreristorante.it
 lam810522.com
 lamazi.pl
+lamorefaishon.com
 lanfong83.pixnet.net
 lanhaber.online
 lankalinja.fi
@@ -2912,6 +2925,7 @@ lkrlzyw.com
 lnwow.org
 loadd.co
 lobcm.nl
+l-obrador.cat
 localick.co
 locatepw.co
 location-lecypres.fr
@@ -3026,12 +3040,14 @@ mahaguru.de
 mahsunhaber.online
 mainecoon-nono.de
 mairuan.com
+maivioh2.com
 maktubtienda.es
 malatyasuaritmacihazi.store
 malatya-su-aritma-cihazi.store
 malatyasuaritmacihaziservisi.store
 malgueiro.com.br
 malkovskeho596.cz
+mallorcamarger.com
 malondarock.es
 mamedobroukarmu.cz
 mancihaber.online
@@ -3303,6 +3319,7 @@ murmeltier-oel.de
 murphyslawmoonshine.com
 muschelfliesen.de
 museum-spassk-dal.ru
+musicjh.uk
 musicshopfar.com
 musikgarten-haug.de
 muttonisa.ch
@@ -3372,6 +3389,7 @@ nb3268.net
 nb68.net
 n-blog.weebly.com
 ncdc.gov.ng
+nducenunosbrazad.tk
 ndyouthonfire.org
 necaz.com.tw
 neck.wiki
@@ -3609,6 +3627,7 @@ particularfilmask.de
 particularly.cfd
 partstown.com
 pascalreckel.de
+pastelerialosangeles.es
 patisserie-ducastel.fr
 patoghu.com
 patrikbidsong.co
@@ -3715,6 +3734,7 @@ playno1.com
 playsport.cc
 playtube.pk
 pldpldpld.pixnet.net
+plexmotion.com
 plmma.tv
 plphok.co
 plusfourgroup.com
@@ -4265,6 +4285,7 @@ smsonaysiteleri.net
 smule.com
 snailbob.uk
 snapcck.co
+sneakernvoas.com
 snowkitesweden.com
 snufvitaal.nl
 social.ifans.one
@@ -4283,6 +4304,7 @@ solarwaterway.com
 solcahaber.online
 soldanbakan.space
 solinotes.sk
+solion.shop
 somebody.wiki
 sometimes.wiki
 song249111.pixnet.net
@@ -4432,6 +4454,7 @@ sweetie.cfd
 sweetigrils.page.link
 swiat-pomyslow.pl
 swieczuchy.pl
+swingfit.es
 swss.ws
 swtwn.com
 sx5andrewmaew.pixnet.net
@@ -4635,6 +4658,7 @@ totally.sbs
 totalwarforum.cz
 totfunciona.es
 toucho.co
+tourismilocosnorte.com
 toushi-mansyon.com
 toutiao1.com
 town.boltonct.org
@@ -4710,6 +4734,7 @@ tweetygood.weebly.com
 twhf999.com.tw
 twidder.wiki
 twingoa.pixnet.net
+twinstantrumsandcoldcoffee.com
 twitter-followers-review.com
 twkingboss.com
 twl.watergeefjedoor.nl
@@ -4808,6 +4833,7 @@ vancouvertimes.org
 vanityplanet.com
 varhaber.online
 vasilikwuud4.pixnet.net
+vatlieusaigon.com
 vb97ath125.pixnet.net
 vbkise.co
 vc.laarzicht.eu
@@ -5161,6 +5187,7 @@ yosbilgi.com
 youjidi.net
 youko-ohtani.net
 youku.volga-gsm.ru
+youngshomelawncare.com
 yourator.co
 yourtruhome.com
 youth.cn
@@ -5232,6 +5259,7 @@ zespol-antares.pl
 zgjrjw.com
 zhaikangpei.com
 zhaotwcom.com
+zhaoweizhongmiao.com
 zhcsjr.com
 zhdate.com
 zhencaijc.com
