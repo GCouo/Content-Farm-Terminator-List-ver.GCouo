@@ -3,7 +3,9 @@
 *.pw
 *.xyz
 *.yahoo.com.tw
-0.di13.biz
+*akams*.*
+*aka-ms*.*
+*aka-ms-*.*
 003kj.com
 00kxs.com
 0121939555.weebly.com
@@ -15,10 +17,9 @@
 06ak.com
 0716749813.weebly.com
 07ek.com
+08-16-lernen.ch
 0889.weebly.com
 0chan.net
-0szwz.blogsbodasdeisabel.com
-1003202223.smspro.es
 1011.fun
 10292.uk
 106tv.com
@@ -29,12 +30,9 @@
 123schlosserei.de
 142game.com
 1470555721.weebly.com
-1503202223.19deseptiembre.es
-1503202223.bse-events.fr
 1530697552s.weebly.com
 154.91.224.196
 159.148.38.104
-1603202223.19deseptiembre.es
 162.192.2.38
 1634555759.weebly.com
 1666.com
@@ -52,14 +50,13 @@
 19202.com
 193.233.23.39
 197news.co
-1anc.pinesnikko.live
+19deseptiembre.es
 1applehealth.com
 1der.tw
 1ezhou.com
 1gr.cz
 1industries.co.uk
 1u142.com
-2002202223.estetgroup.ru
 200tyc.vip
 20lemons.com
 211service.com
@@ -119,6 +116,7 @@
 4sui.top
 4t87r7ah.weebly.com
 4-travel.nl
+4tvbox.ru
 5.135.121.48
 5.135.121.49
 5.135.121.51
@@ -127,7 +125,7 @@
 5118.com
 5194026935.weebly.com
 51down.*.com
-51store.catalystbreakthru.com
+51store.*.com
 51tianxiaxing.com
 51web.*.com
 5270716627.weebly.com
@@ -150,11 +148,9 @@
 594po.com
 5dlottery.biz
 5uks.com
-6.loveis.4tvbox.ru
 60.199.243.177
 61.221.189.152
 620711.weebly.com
-661392646.aekcaffe.ch
 6626211439.weebly.com
 66hkb.com
 66rpg.com
@@ -170,9 +166,7 @@
 6parknews.com
 7000distribuzione.it
 7035197324.weebly.com
-70x9k.blogsbodasdeisabel.com
 7327844377.weebly.com
-740856.vodump.co.uk
 751666.weebly.com
 75zw.com
 773hf.com
@@ -212,7 +206,6 @@
 948fa.com
 948v.com
 94istudy.com
-950357099.08-16-lernen.ch
 9515161430.weebly.com
 95zongcai.com
 962.net
@@ -250,10 +243,6 @@ aakamsphonelinkqrc.com
 aakams-phonelinkqrc.com
 a-akamsphonelinkqrc.com
 aaltoinkeroinen.fi
-ab.eurocio-events.eu
-ab.mamapoint.pl
-ab.nicolascorre.fr
-ab.weststoryfest.co.uk
 ab5599.pixnet.net
 abcbielizny.pl
 abcdrop.fr
@@ -303,11 +292,11 @@ advancesteelworx.co.uk
 ady886.weebly.com
 ae163alvjtjg.pixnet.net
 aegla.eu
+aekcaffe.ch
 aeoniansolutions.fi
 aerialdb.co.uk
 aeroblackcat.it
 aeroleziria.pt
-af48rz.toptanzarfdunyasi.com
 afalina-askiz.ru
 affinityfinancial.online
 aformer.de
@@ -338,15 +327,17 @@ aikangjian.net
 aikantube.com
 aikiingenieria.cl
 aileen0918520.pixnet.net
-aio.menhict.com
 aipamm-aresroma.it
 airestecno.com
 airluv.ru
 airnes-company.com
 aiseesoft.com
 aixdzs.com
-aixdzs.volga-gsm.ru
 ajonging
+aka*link*.*
+aka*link.*
+akams*.*
+aka-ms-*.*
 aka-ms-linkphone.online
 aka-ms-linkphone.website
 akamsphonelinkqrc.com
@@ -593,7 +584,6 @@ avtosignal-shop.ru
 awesomeopensource.com
 awronic.co
 ax.ilkk.pl
-ax.weststoryfest.co.uk
 ax.wilcy.eu
 axim-patrimoine.fr
 axpka04649.pixnet.net
@@ -878,6 +868,7 @@ browniegods.co.uk
 brucecommodity.com
 bruzzoroberto.it
 brzozow.info.pl
+bse-events.fr
 bsneny.com
 btt3658.com
 bu.yogaenqigong.nl
@@ -1406,6 +1397,7 @@ dh6000.com
 dhafi.link
 dhs4a.bolchevo.ru
 dhshop.today
+di13.biz
 diagnoseget.com
 dialyhottgirls.page.link
 dianping.com
@@ -1664,6 +1656,7 @@ espaciotheman.es
 essentio.fi
 estaleiro.net
 estella.pixnet.net
+estetgroup.ru
 esther22lim.weebly.com
 esthervis.de
 eswzx.com
@@ -1679,6 +1672,7 @@ etykiety-ccf.pl
 eungxv.co
 eunice0722tw.pixnet.net
 eurmp27449.pixnet.net
+eurocio-events.eu
 euronics.it
 evaferraresi.it
 evangelinelinens.com
@@ -2531,6 +2525,7 @@ jillakmcc.info
 jillakmcc.org
 jimknight.uk
 jimmyfans.com
+jimmyspinks.com
 jingluotujie.com
 jingtaonetshop.com
 jinjinai.tw
@@ -2589,6 +2584,7 @@ jw.kristofszabo.eu
 jxycdx.com
 jxyylsw.com
 k0928558050.pixnet.net
+kaalama.org
 kaedefish.pixnet.net
 kahokuprash.pixnet.net
 kalbk8475avu.pixnet.net
@@ -3077,6 +3073,7 @@ malgueiro.com.br
 malkovskeho596.cz
 mallorcamarger.com
 malondarock.es
+mamapoint.pl
 mamedobroukarmu.cz
 mancihaber.online
 mancityvsbarcelona.co.uk
@@ -3168,6 +3165,7 @@ member.mlmbet.com
 memorably620.pixnet.net
 memorietraumatiche.it
 memorium-verlag.de
+menhict.com
 menilef.wiki
 mercatonft.it
 mercedes.gob.ar
@@ -3473,6 +3471,7 @@ niceonegame.com
 nichengzhan.com
 nickileeeeee.pixnet.net
 nicolascorre.fr
+nicolascorre.fr
 nicovanlieshout.nl
 nieuwservaas.nl
 nihao.wiki
@@ -3725,6 +3724,7 @@ philip.pro
 phimkk.me
 phoebedau.pixnet.net
 phonelinkqrc.com
+phonelinkqrc.net
 photoalp.it
 photocall.live
 photozinsanebiu.news
@@ -3745,6 +3745,7 @@ pimanxls.com
 pimpmyfruit.de
 pinduoduo.com
 pineapplecake.com.tw
+pinesnikko.live
 pinglg13.co
 pinqueue.com
 pinsuge.com
@@ -4323,6 +4324,7 @@ smsgo.com.tw
 smshappy.com.tw
 smsonaysiteleri.com
 smsonaysiteleri.net
+smspro.es
 smule.com
 snailbob.uk
 snapcck.co
@@ -4931,9 +4933,11 @@ vm9653.pixnet.net
 vmblmy.weebly.com
 vnsocial.ru
 vocus.cc
+vodump.co.uk
 vokal.in
 volcano-money.ru
 volcesu.tk
+volga-gsm.ru
 vooraljeklussen.nl
 vorota-krasnodar.ru
 voteearlyohio.org
@@ -5012,6 +5016,7 @@ wenweipo.com
 werbung-und-bildung.de
 weser-kurier.de
 westonpierc.pixnet.net
+weststoryfest.co.uk
 wfxs.com.tw
 wfxs.tw
 whatassurances.fr
@@ -5232,7 +5237,6 @@ yoreader.com
 yosbilgi.com
 youjidi.net
 youko-ohtani.net
-youku.volga-gsm.ru
 youngshomelawncare.com
 yourator.co
 yoursme.uk
