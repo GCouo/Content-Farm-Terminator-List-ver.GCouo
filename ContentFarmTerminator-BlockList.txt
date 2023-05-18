@@ -3,6 +3,7 @@
 *.pw
 *.xyz
 *.yahoo.com.tw
+*.za
 *akams*.*
 *aka-ms*.*
 *aka-ms-*.*
@@ -39,6 +40,7 @@
 1666.com
 168friend.com
 17173.com
+174.138.46.156
 177389.com
 17ce.com
 17k.com
@@ -219,6 +221,7 @@
 95zongcai.com
 962.net
 9663.com
+966edu.com
 973.com
 97973.com
 97ysdy.com
@@ -529,6 +532,7 @@ armadiooutlet.pl
 armandl.com
 arnageauto.ru
 arnoldmesselink.nl
+arnoonoo.click
 aromacozy.ru
 arrest.cfd
 arrived.cfd
@@ -911,6 +915,7 @@ bursitis.wiki
 bursts.wiki
 busby.wiki
 bushed.wiki
+businesstimes.com.sg
 businesstoday.com.tw
 businessweekly.com.tw
 busk.wiki
@@ -1468,6 +1473,7 @@ dmxs.org
 dn0710sh.pixnet.net
 dnaestheticsmedspa.com
 dna-media.at
+dobrabet.net
 dobradostawa.pl
 doctolib.ch
 doctor2tw.pixnet.net
@@ -1524,6 +1530,7 @@ dueandgo.es
 duelhair.com
 duke6578.pixnet.net
 duknas.co
+dundeeboilers.uk
 duoduowan.com
 duoflex.co.uk
 duotegame.com
@@ -1594,6 +1601,7 @@ egertokirco.pixnet.net
 eglestore.it
 egmontjeaty.pixnet.net
 ehealthsask.ca
+eidionline.org
 eightfold.ai
 eightyfiveclo.com
 eirchos.co
@@ -1824,6 +1832,7 @@ fishspa.lt
 fishtankheads.com
 fismankesl.online
 fit60923.pixnet.net
+fitimages.net
 fitnesdream.ru
 fitnesssource1.com
 fitnezzcollectiv.com
@@ -1929,6 +1938,7 @@ funncutee6.page.link
 funnmtb.cz
 funs.me
 fushuwang.org
+futachan.org
 futterweltxxl.de
 futuhk.com
 futuholdings.com
@@ -1970,6 +1980,7 @@ gaodun.com
 gaojipro.com
 garbystore.com
 gardenbarbarakurpas.pl
+gariban.net
 gartenundlandschaftharz.de
 garwackibus.pl
 gastronomiamanzi.it
@@ -1995,6 +2006,7 @@ gemproject.eu
 gen.in
 generalserviceita.it
 generar.online
+genericides.org
 geniglio.it
 geobunion.com
 geodomet.pl
@@ -2183,6 +2195,7 @@ helios-labs.com
 hellopsy.ch
 helloyishi.com.tw
 helpinghouseholds.co.uk
+helpshlft.com
 helvin1988tan.weebly.com
 hemp-air.it
 hengyaoxing.com
@@ -2805,6 +2818,7 @@ kuaishou.com
 kuegy.com
 kugou.com
 kuhaber.online
+kuige.com
 kujohed.pixnet.net
 kukut8.com
 kulemi.com
@@ -3437,6 +3451,7 @@ mzakatek.pl
 mzii8x34xyz.blogspot.com
 nae147.weebly.com
 naegelselbstmachen.de
+naiba.de
 naijagreentv.com
 naimaniu.pixnet.net
 nainitalproperties.com
@@ -3553,6 +3568,7 @@ nnn.ng
 noagencystudio.de
 noegenic.com
 nogomi.ru
+noonooad.click
 noranatorbice.si
 noraneco-official.com
 nordicwalkingpinerolo.it
@@ -3755,6 +3771,7 @@ peggywarnfe.pixnet.net
 peiling0718.pixnet.net
 pembrokmaxyl.pixnet.net
 pennfosterglobal.com
+pensionlandhaus.eu
 people.com.cn
 peoplemedia.tw
 peoplenews.tw
@@ -3938,6 +3955,7 @@ ptt9.com
 pttnews.cc
 ptwxz.com
 publicismedia.com
+puhuahui.com
 puntoagri.it
 purujiorenl.pixnet.net
 pururin.eu
@@ -3955,6 +3973,7 @@ qde88552258.weebly.com
 qhegh821hgf.weebly.com
 qhkszs.com
 qi5sarahoby.pixnet.net
+qianchengrh.com
 qiang.wiki
 qianp.com
 qidian.com
@@ -4394,6 +4413,7 @@ slezskybeton.cz
 slideshare.net
 slkj.org
 slodkadziupla.pl
+sloppy-us.com
 slothsperity.com
 slovakhaber.online
 slowmibrak.pl
@@ -4475,6 +4495,7 @@ sporcle.com
 sportbeans.com
 sportitude64.fr
 sporttagtw.com
+sppsknights.net
 sprier532.pixnet.net
 sprier532532.pixnet.net
 sprinterskiemp2022.pl
@@ -5206,6 +5227,7 @@ wowscreen.com.tw
 wows-numbers.com
 wowy.es
 wp.hebamme-eva-seibold.de
+wptachyon.com
 wptiood.me
 wpw-immobilien.ch
 wrapetcompagnie-bordeaux.fr
