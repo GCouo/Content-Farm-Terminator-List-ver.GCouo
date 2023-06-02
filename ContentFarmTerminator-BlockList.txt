@@ -1,4 +1,5 @@
 *.appledaily.com
+*.la
 *.lol
 *.pw
 *.xyz
@@ -168,7 +169,6 @@
 68926367.com
 68klot.co
 69shu.com
-69shu.la
 6dgame.org
 6laws.net
 6ll.com
@@ -2365,7 +2365,6 @@ iamyourbig.com
 iarticlesnet.com
 ibeamag0es1.pixnet.net
 iberwindpower.com
-ibiquge.la
 ibiquge.net
 ibmclods.co
 ibusuwa.weebly.com
@@ -2858,6 +2857,8 @@ l4valdemsns.pixnet.net
 l4yg08.net
 l5btita.com
 laarzicht.eu
+laarzicht.eu
+laarzicht.eu
 labaldana.it
 labenski-wohnen.de
 laboratoriobirramontescudaio.it
@@ -3036,7 +3037,6 @@ longer.sbs
 longmeitang.net
 longstonetires.fr
 longyuanmoju.com
-look.la
 looknews.cc
 loory.tw
 loprtas.online
@@ -4047,7 +4047,6 @@ rakeurer.me
 ramosadalbkn.pixnet.net
 rankank.com
 rankduck.com
-ranwen.la
 ranwuge.cc
 ranwuge.com
 rapidertclaims.com
@@ -4702,7 +4701,6 @@ tattooshopmassa.it
 tawk.help
 taxigreiciau.lt
 taxi-rosamilia.ch
-tb.laarzicht.eu
 tcm-bern-belp.ch
 teagueeveoq.pixnet.net
 teamabelardo.com
@@ -5040,7 +5038,6 @@ vasilikwuud4.pixnet.net
 vatlieusaigon.com
 vb97ath125.pixnet.net
 vbkise.co
-vc.laarzicht.eu
 vcaabc.nl
 vdo.ninja
 vedenie-ludi.sk
@@ -5330,7 +5327,6 @@ xn--p1ai
 xoilac.org
 xpiaotian.com
 xs45c2hugh3.pixnet.net
-xs520.la
 xs8.cn
 xshdkj.com
 xsw.tw
