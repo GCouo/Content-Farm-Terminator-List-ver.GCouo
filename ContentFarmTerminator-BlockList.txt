@@ -1,8 +1,6 @@
 *.appledaily.com
 *.ar
 *.at
-*.de
-*.fr
 *.kz
 *.la
 *.lol
