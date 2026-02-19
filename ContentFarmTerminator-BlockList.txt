@@ -2,7 +2,6 @@
 *.ar
 *.at
 *.kz
-*.la
 *.lol
 *.ml
 *.pw
@@ -1489,7 +1488,6 @@ daysinal.net
 dazzlebirds.com
 dbd123.com
 dcard.tw
-dcinside.com
 dd8808.com
 dddmdq.com
 ddooo.com
@@ -5877,3 +5875,4 @@ zzc.naszakultura.eu
 zztt07.com
 zzzttt24.com
 zzzx021.com
+
