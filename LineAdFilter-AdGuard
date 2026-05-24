@@ -32,3 +32,22 @@
 ||legy.line-apps.com.akadns.net^$important
 ||legy-jp-addr-ds.line-apps.com^$important
 ||obs.line-scdn.net^$important
+
+! AI 規則
+||gw-line.naver.jp^
+||ad.line.me^
+||ads.line.me^
+||d.line-scdn.net^
+||line-ad-debug.com^
+
+||ad.line.me^$app=com.linecorp.LGTM
+||ads.line.me^$app=com.linecorp.LGTM
+
+||line.me^$removeparam=utm_*
+
+||ad.line.me^
+||ads.line.me^
+||obs.line-scdn.net^
+||scdn.line-apps.com^
+
+#$#hide-if-contains-visible-text AD
