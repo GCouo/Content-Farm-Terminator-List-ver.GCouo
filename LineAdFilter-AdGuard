@@ -51,3 +51,8 @@
 ||scdn.line-apps.com^
 
 #$#hide-if-contains-visible-text AD
+
+! 封鎖 Liteapks
+||liteapks.com^
+||liteapks.net^
+||liteapks.org^
